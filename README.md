@@ -1,5 +1,7 @@
 ## Click Through Rate Prediction
 
+**Coursework Project, Learning with Imbalanced Data**
+
 ML program that can predict whether someone will click on an online ad as it crucial for understanding how well ads are doing, which is important for search engines.
 
 **Model Architecture**
